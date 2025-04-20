@@ -1,0 +1,41 @@
+body {
+  font-family: "Arial" "Meiryo" sans-serif;
+}
+html {
+  font-size: 20px;
+}
+.blue {
+  color: skyblue;
+}
+.pink {
+  color: rgb(255, 192, 203)
+}
+h1 {
+  font-family: "Noto Sans JP", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+h1 {
+  font-size: 2.0rem;
+}
+h1 {
+  font-family: sans-serif;
+}
+h1 {
+  letter-spacing: 1.2em;
+}
+h1 {
+  text-shadow: 2px 2px 3px gray;
+}
+h1 {
+  text-decoration: underline ;
+  text-decoration-color: rgb(115,115,114);
+  text-decoration-thickness: 3px;
+}
+body {
+  text-align: center;
+}
+#basic {
+  font-weight: bold;
+}
